@@ -1,5 +1,6 @@
 ![logo](logo/logo.png)
 # 
+PLEASE NOTE: The data directory from the original openafis GitHub repository was not able to be uploaded, due to file size constraints.  However, it can be cloned and placed at the same level in the repository when trying to use it in this repository. https://github.com/neilharan/openafis
 A high-performance one-to-many (1:N) fingerprint matching library for commodity hardware, written in modern platform-independent C++.
 
 ![Linux](https://github.com/neilharan/openafis/workflows/linux/badge.svg?branch=master)
