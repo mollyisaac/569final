@@ -1,0 +1,2 @@
+"/usr/bin/llvm-ar-6.0" cr libopenafis.a  CMakeFiles/openafis.dir/FastMath.cpp.o CMakeFiles/openafis.dir/Match.cpp.o CMakeFiles/openafis.dir/MatchMany.cpp.o CMakeFiles/openafis.dir/OpenAFIS.cpp.o CMakeFiles/openafis.dir/Render.cpp.o CMakeFiles/openafis.dir/Template.cpp.o CMakeFiles/openafis.dir/TemplateCSV.cpp.o CMakeFiles/openafis.dir/TemplateISO19794_2_2005.cpp.o CMakeFiles/openafis.dir/Triplet.cpp.o CMakeFiles/openafis.dir/TripletScalar.cpp.o
+"/usr/bin/llvm-ranlib-6.0" libopenafis.a
