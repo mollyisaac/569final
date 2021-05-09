@@ -1,0 +1,1 @@
+/usr/bin/clang++  -fsanitize=fuzzer-no-link,address  -O3  -march=native  -mtune=native  -pedantic  -pedantic-errors  -fstrict-aliasing  -fno-exceptions  -Wthread-safety -g -flto=thin  -fno-lto CMakeFiles/openafis-cli.dir/Main.cpp.o  -o openafis-cli ../lib/libopenafis.a 

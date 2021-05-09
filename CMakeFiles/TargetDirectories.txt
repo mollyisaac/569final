@@ -1,0 +1,8 @@
+/home/fuzzusers/openafis/CMakeFiles/rebuild_cache.dir
+/home/fuzzusers/openafis/CMakeFiles/edit_cache.dir
+/home/fuzzusers/openafis/lib/CMakeFiles/rebuild_cache.dir
+/home/fuzzusers/openafis/lib/CMakeFiles/openafis.dir
+/home/fuzzusers/openafis/lib/CMakeFiles/edit_cache.dir
+/home/fuzzusers/openafis/cli/CMakeFiles/rebuild_cache.dir
+/home/fuzzusers/openafis/cli/CMakeFiles/openafis-cli.dir
+/home/fuzzusers/openafis/cli/CMakeFiles/edit_cache.dir

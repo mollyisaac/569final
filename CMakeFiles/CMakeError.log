@@ -1,0 +1,441 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/clang++-6 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/clang++-6 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/clang++-6 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/clang++-6 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/clang++-6 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/clang++-6 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/clang++-6 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/clang++-6 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/clang++-6 
+Build flags: -c;-fsanitize=fuzzer-no-link,address;-v
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/clang++-6 
+Build flags: -c;-fsanitize=fuzzer-no-link,address;-v
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/clang++-6 
+Build flags: -c;-fsanitize=fuzzer-no-link,address;-v
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/clang++-6 
+Build flags: -c;-fsanitize=fuzzer-no-link,address;-v
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/clang++-6 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/clang++-6 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/clang++-6 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/clang++-6 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /home/fuzzusers/openafis/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_0f356/fast"
+/usr/bin/make -f CMakeFiles/cmTC_0f356.dir/build.make CMakeFiles/cmTC_0f356.dir/build
+make[1]: Entering directory '/home/fuzzusers/openafis/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_0f356.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/clang++    -c -fsanitize=fuzzer-no-link,address -v    -o CMakeFiles/cmTC_0f356.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp
+clang version 6.0.0-1ubuntu2 (tags/RELEASE_600/final)
+Target: x86_64-pc-linux-gnu
+Thread model: posix
+InstalledDir: /usr/bin
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/4.8
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/4.8.5
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/5
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/5.5.0
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/6
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/6.5.0
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/7
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/8
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/4.8
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/4.8.5
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/5
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/5.5.0
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/6
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/6.5.0
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/7
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/7.5.0
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/8
+Selected GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0
+Candidate multilib: .;@m64
+Candidate multilib: 32;@m32
+Candidate multilib: x32;@mx32
+Selected multilib: .;@m64
+ "/usr/lib/llvm-6.0/bin/clang" -cc1 -triple x86_64-pc-linux-gnu -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model static -mthread-model posix -mdisable-fp-elim -fmath-errno -masm-verbose -mconstructor-aliases -munwind-tables -fuse-init-array -target-cpu x86-64 -dwarf-column-info -debugger-tuning=gdb -v -coverage-notes-file /home/fuzzusers/openafis/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_0f356.dir/CMakeCXXCompilerABI.cpp.gcno -resource-dir /usr/lib/llvm-6.0/lib/clang/6.0.0 -internal-isystem /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/c++/7.5.0 -internal-isystem /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/x86_64-linux-gnu/c++/7.5.0 -internal-isystem /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/x86_64-linux-gnu/c++/7.5.0 -internal-isystem /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/c++/7.5.0/backward -internal-isystem /usr/include/clang/6.0.0/include/ -internal-isystem /usr/local/include -internal-isystem /usr/lib/llvm-6.0/lib/clang/6.0.0/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro -fdebug-compilation-dir /home/fuzzusers/openafis/CMakeFiles/CMakeTmp -ferror-limit 19 -fmessage-length 0 -fsanitize-coverage-type=1 -fsanitize-coverage-type=3 -fsanitize-coverage-indirect-calls -fsanitize-coverage-trace-cmp -fsanitize-coverage-inline-8bit-counters -fsanitize-coverage-pc-table -fsanitize-coverage-stack-depth -fsanitize=address,fuzzer-no-link -fsanitize-blacklist=/usr/lib/llvm-6.0/lib/clang/6.0.0/asan_blacklist.txt -fsanitize-address-use-after-scope -fno-assume-sane-operator-new -fobjc-runtime=gcc -fcxx-exceptions -fexceptions -fdiagnostics-show-option -o CMakeFiles/cmTC_0f356.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp
+clang -cc1 version 6.0.0 based upon LLVM 6.0.0 default target x86_64-pc-linux-gnu
+ignoring nonexistent directory "/include"
+ignoring duplicate directory "/usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/x86_64-linux-gnu/c++/7.5.0"
+ignoring duplicate directory "/usr/include/clang/6.0.0/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/c++/7.5.0
+ /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/x86_64-linux-gnu/c++/7.5.0
+ /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/c++/7.5.0/backward
+ /usr/include/clang/6.0.0/include
+ /usr/local/include
+ /usr/include/x86_64-linux-gnu
+ /usr/include
+End of search list.
+Linking CXX executable cmTC_0f356
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0f356.dir/link.txt --verbose=1
+/usr/bin/clang++  -c -fsanitize=fuzzer-no-link,address -v    -v CMakeFiles/cmTC_0f356.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_0f356 
+clang version 6.0.0-1ubuntu2 (tags/RELEASE_600/final)
+Target: x86_64-pc-linux-gnu
+Thread model: posix
+InstalledDir: /usr/bin
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/4.8
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/4.8.5
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/5
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/5.5.0
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/6
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/6.5.0
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/7
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/8
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/4.8
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/4.8.5
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/5
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/5.5.0
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/6
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/6.5.0
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/7
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/7.5.0
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/8
+Selected GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0
+Candidate multilib: .;@m64
+Candidate multilib: 32;@m32
+Candidate multilib: x32;@mx32
+Selected multilib: .;@m64
+clang: warning: CMakeFiles/cmTC_0f356.dir/CMakeCXXCompilerABI.cpp.o: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-fsanitize=fuzzer-no-link,address' [-Wunused-command-line-argument]
+make[1]: Leaving directory '/home/fuzzusers/openafis/CMakeFiles/CMakeTmp'
+
+Cannot copy output executable
+  ''
+to destination specified by COPY_FILE:
+  '/home/fuzzusers/openafis/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin'
+Unable to find the executable at any of:
+  /home/fuzzusers/openafis/CMakeFiles/CMakeTmp/cmTC_0f356
+  /home/fuzzusers/openafis/CMakeFiles/CMakeTmp/Debug/cmTC_0f356
+  /home/fuzzusers/openafis/CMakeFiles/CMakeTmp/Development/cmTC_0f356
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /home/fuzzusers/openafis/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4dc41/fast"
+/usr/bin/make -f CMakeFiles/cmTC_4dc41.dir/build.make CMakeFiles/cmTC_4dc41.dir/build
+make[1]: Entering directory '/home/fuzzusers/openafis/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_4dc41.dir/feature_tests.cxx.o
+/usr/bin/clang++    -c -fsanitize=fuzzer-no-link,address -v    -std=c++1z -o CMakeFiles/cmTC_4dc41.dir/feature_tests.cxx.o -c /home/fuzzusers/openafis/CMakeFiles/feature_tests.cxx
+clang version 6.0.0-1ubuntu2 (tags/RELEASE_600/final)
+Target: x86_64-pc-linux-gnu
+Thread model: posix
+InstalledDir: /usr/bin
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/4.8
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/4.8.5
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/5
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/5.5.0
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/6
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/6.5.0
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/7
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/8
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/4.8
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/4.8.5
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/5
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/5.5.0
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/6
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/6.5.0
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/7
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/7.5.0
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/8
+Selected GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0
+Candidate multilib: .;@m64
+Candidate multilib: 32;@m32
+Candidate multilib: x32;@mx32
+Selected multilib: .;@m64
+ "/usr/lib/llvm-6.0/bin/clang" -cc1 -triple x86_64-pc-linux-gnu -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name feature_tests.cxx -mrelocation-model static -mthread-model posix -mdisable-fp-elim -fmath-errno -masm-verbose -mconstructor-aliases -munwind-tables -fuse-init-array -target-cpu x86-64 -dwarf-column-info -debugger-tuning=gdb -v -coverage-notes-file /home/fuzzusers/openafis/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_4dc41.dir/feature_tests.cxx.gcno -resource-dir /usr/lib/llvm-6.0/lib/clang/6.0.0 -internal-isystem /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/c++/7.5.0 -internal-isystem /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/x86_64-linux-gnu/c++/7.5.0 -internal-isystem /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/x86_64-linux-gnu/c++/7.5.0 -internal-isystem /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/c++/7.5.0/backward -internal-isystem /usr/include/clang/6.0.0/include/ -internal-isystem /usr/local/include -internal-isystem /usr/lib/llvm-6.0/lib/clang/6.0.0/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -std=c++1z -fdeprecated-macro -fdebug-compilation-dir /home/fuzzusers/openafis/CMakeFiles/CMakeTmp -ferror-limit 19 -fmessage-length 0 -fsanitize-coverage-type=1 -fsanitize-coverage-type=3 -fsanitize-coverage-indirect-calls -fsanitize-coverage-trace-cmp -fsanitize-coverage-inline-8bit-counters -fsanitize-coverage-pc-table -fsanitize-coverage-stack-depth -fsanitize=address,fuzzer-no-link -fsanitize-blacklist=/usr/lib/llvm-6.0/lib/clang/6.0.0/asan_blacklist.txt -fsanitize-address-use-after-scope -fno-assume-sane-operator-new -fobjc-runtime=gcc -fcxx-exceptions -fexceptions -fdiagnostics-show-option -o CMakeFiles/cmTC_4dc41.dir/feature_tests.cxx.o -x c++ /home/fuzzusers/openafis/CMakeFiles/feature_tests.cxx
+clang -cc1 version 6.0.0 based upon LLVM 6.0.0 default target x86_64-pc-linux-gnu
+ignoring nonexistent directory "/include"
+ignoring duplicate directory "/usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/x86_64-linux-gnu/c++/7.5.0"
+ignoring duplicate directory "/usr/include/clang/6.0.0/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/c++/7.5.0
+ /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/x86_64-linux-gnu/c++/7.5.0
+ /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/c++/7.5.0/backward
+ /usr/include/clang/6.0.0/include
+ /usr/local/include
+ /usr/include/x86_64-linux-gnu
+ /usr/include
+End of search list.
+Linking CXX executable cmTC_4dc41
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4dc41.dir/link.txt --verbose=1
+/usr/bin/clang++  -c -fsanitize=fuzzer-no-link,address -v     CMakeFiles/cmTC_4dc41.dir/feature_tests.cxx.o  -o cmTC_4dc41 
+clang version 6.0.0-1ubuntu2 (tags/RELEASE_600/final)
+Target: x86_64-pc-linux-gnu
+Thread model: posix
+InstalledDir: /usr/bin
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/4.8
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/4.8.5
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/5
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/5.5.0
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/6
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/6.5.0
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/7
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0
+Found candidate GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/8
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/4.8
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/4.8.5
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/5
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/5.5.0
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/6
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/6.5.0
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/7
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/7.5.0
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/8
+Selected GCC installation: /usr/bin/../lib/gcc/x86_64-linux-gnu/7.5.0
+Candidate multilib: .;@m64
+Candidate multilib: 32;@m32
+Candidate multilib: x32;@mx32
+Selected multilib: .;@m64
+clang: warning: CMakeFiles/cmTC_4dc41.dir/feature_tests.cxx.o: 'linker' input unused [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-fsanitize=fuzzer-no-link,address' [-Wunused-command-line-argument]
+make[1]: Leaving directory '/home/fuzzusers/openafis/CMakeFiles/CMakeTmp'
+
+Cannot copy output executable
+  ''
+to destination specified by COPY_FILE:
+  '/home/fuzzusers/openafis/CMakeFiles/feature_tests.bin'
+Unable to find the executable at any of:
+  /home/fuzzusers/openafis/CMakeFiles/CMakeTmp/cmTC_4dc41
+  /home/fuzzusers/openafis/CMakeFiles/CMakeTmp/Debug/cmTC_4dc41
+  /home/fuzzusers/openafis/CMakeFiles/CMakeTmp/Development/cmTC_4dc41
+
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/fuzzusers/openafis/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3191c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3191c.dir/build.make CMakeFiles/cmTC_3191c.dir/build
+make[1]: Entering directory '/home/fuzzusers/openafis/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3191c.dir/CheckSymbolExists.cxx.o
+/usr/bin/clang++    -O3  -march=native  -mtune=native  -pedantic  -pedantic-errors  -fstrict-aliasing  -fno-exceptions  -Wthread-safety    -std=c++1z -o CMakeFiles/cmTC_3191c.dir/CheckSymbolExists.cxx.o -c /home/fuzzusers/openafis/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+Linking CXX executable cmTC_3191c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3191c.dir/link.txt --verbose=1
+/usr/bin/clang++    -O3  -march=native  -mtune=native  -pedantic  -pedantic-errors  -fstrict-aliasing  -fno-exceptions  -Wthread-safety     CMakeFiles/cmTC_3191c.dir/CheckSymbolExists.cxx.o  -o cmTC_3191c 
+CMakeFiles/cmTC_3191c.dir/CheckSymbolExists.cxx.o: In function `main':
+CheckSymbolExists.cxx:(.text+0x6): undefined reference to `pthread_create'
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+CMakeFiles/cmTC_3191c.dir/build.make:97: recipe for target 'cmTC_3191c' failed
+make[1]: *** [cmTC_3191c] Error 1
+make[1]: Leaving directory '/home/fuzzusers/openafis/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_3191c/fast' failed
+make: *** [cmTC_3191c/fast] Error 2
+
+File /home/fuzzusers/openafis/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/fuzzusers/openafis/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e1f42/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e1f42.dir/build.make CMakeFiles/cmTC_e1f42.dir/build
+make[1]: Entering directory '/home/fuzzusers/openafis/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_e1f42.dir/CheckSymbolExists.cxx.o
+/usr/bin/clang++    -O3  -march=native  -mtune=native  -pedantic  -pedantic-errors  -fstrict-aliasing  -fno-exceptions  -Wthread-safety    -std=c++1z -o CMakeFiles/cmTC_e1f42.dir/CheckSymbolExists.cxx.o -c /home/fuzzusers/openafis/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+Linking CXX executable cmTC_e1f42
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e1f42.dir/link.txt --verbose=1
+/usr/bin/clang++    -O3  -march=native  -mtune=native  -pedantic  -pedantic-errors  -fstrict-aliasing  -fno-exceptions  -Wthread-safety     CMakeFiles/cmTC_e1f42.dir/CheckSymbolExists.cxx.o  -o cmTC_e1f42 
+CMakeFiles/cmTC_e1f42.dir/CheckSymbolExists.cxx.o: In function `main':
+CheckSymbolExists.cxx:(.text+0x6): undefined reference to `pthread_create'
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+CMakeFiles/cmTC_e1f42.dir/build.make:97: recipe for target 'cmTC_e1f42' failed
+make[1]: *** [cmTC_e1f42] Error 1
+make[1]: Leaving directory '/home/fuzzusers/openafis/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_e1f42/fast' failed
+make: *** [cmTC_e1f42/fast] Error 2
+
+File /home/fuzzusers/openafis/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/fuzzusers/openafis/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_093fe/fast"
+/usr/bin/make -f CMakeFiles/cmTC_093fe.dir/build.make CMakeFiles/cmTC_093fe.dir/build
+make[1]: Entering directory '/home/fuzzusers/openafis/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_093fe.dir/CheckSymbolExists.cxx.o
+/usr/bin/clang++    -O3  -march=native  -mtune=native  -pedantic  -pedantic-errors  -fstrict-aliasing  -fno-exceptions  -Wthread-safety    -std=c++1z -o CMakeFiles/cmTC_093fe.dir/CheckSymbolExists.cxx.o -c /home/fuzzusers/openafis/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+Linking CXX executable cmTC_093fe
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_093fe.dir/link.txt --verbose=1
+/usr/bin/clang++    -O3  -march=native  -mtune=native  -pedantic  -pedantic-errors  -fstrict-aliasing  -fno-exceptions  -Wthread-safety     CMakeFiles/cmTC_093fe.dir/CheckSymbolExists.cxx.o  -o cmTC_093fe 
+CMakeFiles/cmTC_093fe.dir/CheckSymbolExists.cxx.o: In function `main':
+CheckSymbolExists.cxx:(.text+0x6): undefined reference to `pthread_create'
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+CMakeFiles/cmTC_093fe.dir/build.make:97: recipe for target 'cmTC_093fe' failed
+make[1]: *** [cmTC_093fe] Error 1
+make[1]: Leaving directory '/home/fuzzusers/openafis/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_093fe/fast' failed
+make: *** [cmTC_093fe/fast] Error 2
+
+File /home/fuzzusers/openafis/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
